@@ -59,3 +59,22 @@ footer {
   color: grey;
 }
 
+.employee {
+  width: 70%
+}
+
+.employee h3{
+  text-align: center;
+}
+
+.employee img {
+  padding-top: 5%;
+  display: block;
+  margin: auto;
+}
+
+.employee p{
+  text-align: center;
+  padding-bottom: 5%;
+}
+
