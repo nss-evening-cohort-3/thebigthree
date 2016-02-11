@@ -1,0 +1,61 @@
+body {
+  background-image: url(http://www.hdwallpapers.in/download/colorful_background-1920x1200.jpg);
+  font-family: Lato, Arial Verdana;
+}
+
+header{
+  padding:0.2em;
+  padding-left: 1em;
+  font-family: "Libre Baskerville", serif;
+  font-size: 1.3em;
+  font-family: Pacifico, Arial Verdana;
+  color: lightgreen;
+}
+
+nav {
+  background-color: black;
+}
+
+ul li {
+  margin: 1.1em;
+  list-style-type: none;
+  display: inline-block;
+  color: lightblue;
+  font-size: 1.1em;
+  text-decoration: none;
+}
+
+li a {
+  text-decoration: none;
+  color:lightblue;
+}
+
+article {
+  width: 70%;
+  margin: 1.5em auto;
+  margin-top: 50px;
+  box-shadow: 2px 2px 12px 2px grey;
+  color: black;
+}
+
+article section{
+  margin: 1.2em;
+  padding:0.2em;
+}
+
+article h1 {
+  text-align: center;
+  margin: 1.5em;
+}
+
+
+
+footer {
+  margin-top: 50px;
+  margin-left: 20px;
+  position: relative;
+  color: black;
+  text-decoration: none;
+  color: grey;
+}
+
