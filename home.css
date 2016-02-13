@@ -80,3 +80,7 @@ footer {
   padding-bottom: 5%;
 }
 
+.problemFooter{
+  position: absolute;
+  bottom: 2%;
+}
