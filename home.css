@@ -63,17 +63,18 @@ footer {
   width: 70%
 }
 
-.employee h3{
+.title {
   text-align: center;
 }
 
-.employee img {
+.photo {
   padding-top: 5%;
   display: block;
   margin: auto;
+
 }
 
-.employee p{
+.description{
   text-align: center;
   padding-bottom: 5%;
 }
